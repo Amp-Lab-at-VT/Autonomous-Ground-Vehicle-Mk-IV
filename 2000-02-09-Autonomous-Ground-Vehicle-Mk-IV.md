@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: Autonomous Ground Vehicle Mk IV
