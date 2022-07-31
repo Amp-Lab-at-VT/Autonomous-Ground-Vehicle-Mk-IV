@@ -19,7 +19,7 @@ show_sidebar: false
 William Gerhard
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Autonomous-Ground-Vehicle-Mk-IV"" >Autonomous-Ground-Vehicle-Mk-IV</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Autonomous-Ground-Vehicle-Mk-IV" >Autonomous-Ground-Vehicle-Mk-IV</a>
 
 ## Photo
 
