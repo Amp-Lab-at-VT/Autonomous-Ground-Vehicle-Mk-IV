@@ -3,8 +3,8 @@ layout: project_template
 title: Autonomous Ground Vehicle Mk IV
 description: An Autonomous Ground Vehicle capable of covering a wide variety of terrain at high speed with a variety of payloads.
 date: 2000-02-09 09:00:00
-hero_image: /web/img/Autonomous-Ground-Vehicle-Mk-IV/open_house.png
-image: /web/img/Autonomous-Ground-Vehicle-Mk-IV/open_house.png
+hero_image: /web/img/Autonomous-Ground-Vehicle-Mk-IV/Hero.png
+image: /web/img/Autonomous-Ground-Vehicle-Mk-IV/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
